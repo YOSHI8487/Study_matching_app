@@ -1,4 +1,4 @@
-# Dating App — Google Sign-In scaffold
+# Study matching App — Google Sign-In scaffold
 
 "Sign in with Google" that creates accounts. Uses Google Identity Services on the
 frontend and ID-token verification on the backend. **No Gmail API, no restricted-scope
